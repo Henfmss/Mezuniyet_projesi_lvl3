@@ -1,1 +1,1 @@
-# Mezuniyet_projesi_lvl3
+projenin amacı, botun sahip oldugu komutlar listesi, kullanılan teknoloji
